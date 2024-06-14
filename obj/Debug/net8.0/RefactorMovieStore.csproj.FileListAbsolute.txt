@@ -108,3 +108,4 @@
 /Users/steffengeorgi/dotnet-projects/RefactorMovieStore/obj/Debug/net8.0/RefactorMovieStore.pdb
 /Users/steffengeorgi/dotnet-projects/RefactorMovieStore/obj/Debug/net8.0/RefactorMovieStore.genruntimeconfig.cache
 /Users/steffengeorgi/dotnet-projects/RefactorMovieStore/obj/Debug/net8.0/ref/RefactorMovieStore.dll
+/Users/steffengeorgi/dotnet-projects/RefactorMovieStore/obj/Debug/net8.0/RefactorMovieStore.sourcelink.json

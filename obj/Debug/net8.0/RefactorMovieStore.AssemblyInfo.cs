@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RefactorMovieStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+438fb19f742fb451378c365071329159c7476a9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RefactorMovieStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RefactorMovieStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
